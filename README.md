@@ -1,2 +1,2 @@
 # VIXPredictionsStocks
-stock prediction with MatPlotLib
+Stock prediction with Matplotlib in Python for technical analysis applications.
